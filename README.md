@@ -14,5 +14,6 @@ sudo apt install python
 ## HOWTO run
 Run the unit tests using
 ```shell  
-chmod +x run_tests.sh./run_tests.sh  
+chmod +x run_tests.sh
+./run_tests.sh  
 ```
