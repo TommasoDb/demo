@@ -1,5 +1,5 @@
 from shapely.geometry import Point, Polygon
-from shapel_utils import *
+from shapely_utils import *
 
 def test_azimuth():
     """Test azimuth"""
